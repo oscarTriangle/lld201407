@@ -1,8 +1,8 @@
 # Notas a la session 2.
 
 ## Good practices
-1.- camelCase --> use in name functions
-2.- snak_case --> use in variables
+>1.- camelCase --> use in name functions
+>2.- snak_case --> use in variables
 
 ## Notes
 
