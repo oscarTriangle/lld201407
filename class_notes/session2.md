@@ -6,7 +6,7 @@
 
 ## Temas
 
-.md --> markdown 
+>.md --> markdown 
 Markdown syntax documentation -->http://daringfireball.net/projects/markdown/syntax
 
 1. Funciones
